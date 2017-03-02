@@ -71,6 +71,7 @@ Crosswalk支持Android/iOS/Windows/Linux平台下创建应用。下面是Android
 
 当您的应用中有大量的Java代码，但是又想要使用Web技术来写UI界面时，我们才推荐您使用Embedding API。
 [地址](https://download.01.org/crosswalk/releases/crosswalk/android/maven2/org/xwalk/xwalk_core_library/23.53.589.4/)下载后导入到项目。
+
 (未完待续)
 
 ## 其他
